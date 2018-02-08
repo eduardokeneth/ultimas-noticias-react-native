@@ -1,6 +1,6 @@
 # "Últimas Notícias"  React-Native + Redux 
 
-Template básico para aplicativo de notícias.<br><br> Construído com - [React Native](https://facebook.github.io/react-native/) - usando a biblioteca de gerenciamento de estado [Redux](https://redux.js.org/). O aplicativo possui uma tela principal de listagem de notícias que são exibidas na busca da api de notícias 
+Template básico para aplicativo de notícias.<br><br> Construído com - [React Native](https://facebook.github.io/react-native/) - usando a biblioteca de gerenciamento de estado [Redux](https://redux.js.org/). O aplicativo possui uma tela principal de listagem de notícias que são exibidas pela busca da api de notícias 
 [NewsApi](https://newsapi.org/)
 
 ## Instalação
