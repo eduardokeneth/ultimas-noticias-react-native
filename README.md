@@ -26,7 +26,7 @@ react-native run-android or react-native run-ios
 
 Tela Inicial - Loading &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tela Princiapl - Notícias &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Redirecionamento - URL Link 
 
-![](https://media.giphy.com/media/l4pTsK5geXSYLE3rW/giphy.gif) &nbsp;&nbsp;&nbsp;&nbsp; ![](https://media.giphy.com/media/26DNfZ3Xzky7LN6so/giphy.gif) &nbsp;&nbsp;&nbsp;&nbsp; ![](https://media.giphy.com/media/26DNizcIp28fvp12U/giphy.gif)
+![](https://media.giphy.com/media/3ohs4rertlTxu7uxck/giphy.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://media.giphy.com/media/26DNizcIp28fvp12U/giphy.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://media.giphy.com/media/26DNfZ3Xzky7LN6so/giphy.gif)
 
 ## Compatibilidade 
 Versões iguais ou superiores
