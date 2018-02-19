@@ -1,7 +1,8 @@
 # "Últimas Notícias"  React-Native + Redux 
 
-Template básico para aplicativo de notícias.<br><br> Construído com - [React Native](https://facebook.github.io/react-native/) - usando a biblioteca de gerenciamento de estado [Redux](https://redux.js.org/). O aplicativo possui uma tela principal de listagem de notícias que são exibidas pela busca da api de notícias 
-[NewsApi](https://newsapi.org/)
+Aplicativo bem simples feito com o intuito de treinamento e aprendizado.
+
+App para exibição de notícias. Construído com - [React Native](https://facebook.github.io/react-native/) - usando a biblioteca de gerenciamento de estado [Redux](https://redux.js.org/). O aplicativo possui uma tela principal de listagem de notícias, as notícias que são exibidas são buscadas na api de notícias [NewsApi](https://newsapi.org/).
 
 ## Instalação
 
@@ -23,8 +24,6 @@ react-native run-android or react-native run-ios
 ```
 
 ### Screenshots
-
-Tela Inicial - Loading &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tela Principal - Notícias &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Redirecionamento - URL Link 
 
 ![](https://media.giphy.com/media/26DNizcIp28fvp12U/giphy.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://media.giphy.com/media/26DNfZ3Xzky7LN6so/giphy.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://media.giphy.com/media/3ohs4rertlTxu7uxck/giphy.gif)
 
